@@ -1,0 +1,14 @@
+:root {
+    --wrapper-width: min(100%, 1200px);
+    --shadow-gray: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+    --color-black: #18181B;
+    --color-dark-gray: #52525A;
+    --color-medium-gray: #d4d4d8;
+    --color-light-gray: #FAFAF9;
+    --font-sora: "Sora", sans-serif;
+}
+
+body {
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+}
