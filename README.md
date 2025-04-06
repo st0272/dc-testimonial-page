@@ -48,9 +48,10 @@ Mobile
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- [Tailwind](https://tailwindcss.com/)
+- [Tailwind](https://tailwindcss.com/) via CDN
+- Google Fonts
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [Suzunatsu Web](https://www.suzunatsu.com)
+- GitHub [@st0272](//github.io/st0272/)
